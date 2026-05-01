@@ -5,7 +5,7 @@
 <!-- Typing Intro -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Muhammed+Ashil;AI+%2B+Full+Stack+Developer;Building+Real+World+Products;RAG+%7C+LLMs+%7C+Agentic+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Mohammed+Ashil;AI+%2B+Full+Stack+Developer;Building+Real+World+Products;RAG+%7C+LLMs+%7C+Agentic+AI" />
 </p>
 
 ---
